@@ -1,38 +1,109 @@
-.App {
-  text-align: center;
+:root {
+  --header--color: black;
+
+  --font--size: 18px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+* {
+  list-style: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#root {
+  width: 70%;
+  margin: auto;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+header {
+  margin: 0;
+  background-color: var(--header--color);
+  font-size: var(--font--size);
   display: flex;
-  flex-direction: column;
+  flex-flow: row;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  padding: 0 12px;
+  height: 38px;
+  justify-content: space-between;
+}
+
+.header__logo {
+  width: 20%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+button {
+  background-color: black;
+  border: none;
+  padding: 0;
+  outline-style: none;
+  font-size: 24px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+header .fa-youtube {
+  color: red;
+  margin: 0;
+  background-color: white;
+}
+
+header span {
   color: white;
+  padding-left: 8px;
+  font-size: var(--font--size);
 }
 
-.App-link {
-  color: #61dafb;
+.searchInput {
+  width: 90%;
+  font-size: var(--font--size);
+  outline: none;
+}
+header .fa-search {
+  background-color: rgb(78, 78, 78);
+  color: grey;
+  padding: 4px;
+  margin-right: 4px;
+  font-size: var(--font--size);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+ul {
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+li {
+  border: solid rgb(212, 207, 207) 1px;
+  border-radius: 5px;
+  width: 49%;
+  display: flex;
+  flex-direction: row;
+}
+
+li img {
+  width: 120px;
+  height: 90px;
+  margin: 3px 3px;
+  display: inline;
+}
+
+li section {
+  margin: auto 8px;
+}
+
+.item_info {
+  font-size: 12px;
+}
+
+.item_info span {
+  display: block;
+  font-weight: bold;
+}
+
+.item__channeltitle {
+  color: darkgrey;
 }
