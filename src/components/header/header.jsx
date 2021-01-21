@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import styles from './header.module.css';
 
 class Header extends Component {
 
@@ -10,11 +11,11 @@ class Header extends Component {
     render() {
         return (
             <header>
-                <section className="header__logo">
+                <section className={styles.header__logo}>
                     <button><i className="fab fa-youtube"></i></button>
                     <span>Youtube</span>
                 </section>
-                <input ref={this.inputRef} type="text" className="searchInput" placeholder="Search..."/>
+                <input ref={this.inputRef} type="text" className={styles.searchInput} placeholder="Search..."/>
                 <button onClick={this.handleSearch}><i className="fas fa-search"></i></button>
             </header>
         );

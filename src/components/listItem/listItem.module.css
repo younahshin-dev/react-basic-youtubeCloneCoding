@@ -1,0 +1,41 @@
+li {
+  border: solid rgb(212, 207, 207) 1px;
+  border-radius: 5px;
+
+  display: flex;
+  flex-direction: row;
+
+  background-color: white;
+  width: 50%;
+  align-items: center;
+}
+
+li img:hover {
+  cursor: pointer;
+  transform: scale(1.02);
+}
+
+li img {
+  width: 120px;
+  height: 90px;
+  padding: 3px 3px;
+  transition: transform 300ms ease-in-out;
+}
+
+li section {
+  margin: auto 8px;
+}
+
+.item_info {
+  width: 70%;
+  font-size: 12px;
+}
+
+.item_info span {
+  display: block;
+  font-weight: bold;
+}
+
+.item__channeltitle {
+  color: darkgrey;
+}

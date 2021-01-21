@@ -1,0 +1,13 @@
+.contents {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+ul {
+  padding: 0;
+  display: flex;
+  box-sizing: border-box;
+
+  flex-wrap: wrap;
+}
