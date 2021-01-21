@@ -13,7 +13,7 @@ class List extends Component {
                     <ul>
                         {this.props.items.map(item => (
                             <ListItem 
-                            key={item.id.videoId === undefined ? item.id.channelId : item.id.videoId}
+                            key={item.id}
                             title={item.snippet.title}
                             desc={item.snippet.description}
                             channelTitle={item.snippet.channelTitle}
