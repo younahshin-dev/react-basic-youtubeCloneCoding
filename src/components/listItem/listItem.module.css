@@ -6,10 +6,8 @@ li {
   flex-direction: row;
 
   background-color: white;
-  width: 50%;
   align-items: center;
 }
-
 li img:hover {
   cursor: pointer;
   transform: scale(1.02);
@@ -25,6 +23,10 @@ li img {
 li section {
   margin: auto 8px;
 }
+.video {
+  display: flex;
+  width: 100%;
+}
 
 .item_info {
   width: 70%;
@@ -38,4 +40,11 @@ li section {
 
 .item__channeltitle {
   color: darkgrey;
+}
+li.grid {
+  width: 50%;
+}
+
+li.list {
+  width: 100%;
 }
