@@ -7,7 +7,7 @@ class DetailItem extends Component {
             <section className="detail__info">
                 <iframe id="player" type="text/html" width="640" height="360"
                     src={`http://www.youtube.com/embed/${this.props.item.id}`}
-                    frameborder="0"
+                    frameBorder="0"
                     ></iframe>
 
                 
