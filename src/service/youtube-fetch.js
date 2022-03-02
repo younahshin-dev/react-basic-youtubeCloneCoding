@@ -4,7 +4,8 @@ class YoutubeFetch {
         this.key = apikey;
         this.getRequestOptions = {
         method: 'GET',
-        redirect: 'follow'
+        redirect: 'follow',
+        'Access-Control-Allow-Origin': true
         };
     }
 
@@ -15,9 +16,10 @@ class YoutubeFetch {
     }
 
     async mostPopular() {
-        const response = await fetch(`https://www.googleapis.com/youtube/v3/search?key=${this.key}&part=snippet&maxResults=24&type=mostPopular&type=video`, this.getRequestOptions);
+    
+        const response = await fetch(`https://www.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=25&key=${this.key}`, this.getRequestOptions);
         const result = await response.json();
-        return result.items.map(item => ({...item, id:item.id.videoId}));
+        return result.items;
     }
 }
 

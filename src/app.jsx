@@ -22,7 +22,7 @@ function App({youtube}) {
      setVideos(items);
     });
 
-  }, []);
+  }, [youtube]);
     
   const onClickVideo = (video) => {
     setDetail(video);

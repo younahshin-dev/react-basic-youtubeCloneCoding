@@ -3,10 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './app.jsx';
 import '@fortawesome/fontawesome-free/js/all.js';
-import Youtube from './service/youtube-fetch';
+import Youtube from './service/youtube.js';
+import axios from 'axios';
 
 const httpClient = axios.create({
-  baseURL: https://www.googleapis.com/youtube/v3/',
+  baseURL: 'https://www.googleapis.com/youtube/v3/',
   params: { key: process.env.REACT_APP_API_KEY },
 });
 

@@ -1,0 +1,828 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "9FyfmpGqlmzg-RlS15tGCx-A_qU",
+  "nextPageToken": "CBgQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 24
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IaLgqyCWq6gfw5S1DEgqNxYYSs0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PF_BlgDPxtU"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-31T14:41:15Z",
+        "channelId": "UC1q4Ihlv_YhLELw-ijE0Diw",
+        "title": "마감 실패해서 만든 호박(마인크래프트)",
+        "description": "아~~~~ 이번에도~~~~~ 메일 edward2065@naver.com 개인블로그 https://blog.naver.com/edward2065/222132186460 [hisaweb] ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PF_BlgDPxtU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PF_BlgDPxtU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PF_BlgDPxtU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "마플 마인크래프트 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-31T14:41:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vnQP1Xk0SgfKIvyWREhG-Y6bC80",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iiukq_ilT0Y"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-11T15:00:01Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "Ep4 It‘s on you and I | BTS: Burn the Stage",
+        "description": "Can the show go on? BTS begin to wrap up their South America tour. Day-by-day, we see how the members passionately discuss ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iiukq_ilT0Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iiukq_ilT0Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iiukq_ilT0Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-11T15:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H8mhtFnLBzPhVWPPGGsBG1t0Bnw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RmZ3DPJQo2k"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-04T15:00:05Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "Ep3 Just give me a smile | BTS: Burn the Stage",
+        "description": "In their most private moment, BTS open up and reveal the truth about themselves. BTS continue their whirlwind South America ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RmZ3DPJQo2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RmZ3DPJQo2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RmZ3DPJQo2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-04T15:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PumgnYv94KC48veIjjFoILT8mMA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YgG9f4MJ1eU"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-18T14:00:47Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "Burn the Stage: the Movie",
+        "description": "Burn the Stage: the Movie is the first movie from BTS, going behind-the-scenes of the BTS WINGS TOUR to reveal the full story of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YgG9f4MJ1eU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YgG9f4MJ1eU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YgG9f4MJ1eU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-18T14:00:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IQt5m06HIQZJwymf_ABbQsSdpt8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "adMBDxnhJMw"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-25T15:00:00Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "Ep6 Moonchild | BTS: Burn the Stage",
+        "description": "A surprise appear while in Southeast Asia: BTS are nominated for a Billboard Music Award! Will success on the global stage ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/adMBDxnhJMw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/adMBDxnhJMw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/adMBDxnhJMw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-25T15:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nMrfFdrpIHKWmhxAODWBjUU_l0w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L38H9yVb3d8"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-28T15:00:50Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "Ep2 You already have the answer | BTS: Burn the Stage",
+        "description": "A moment of triumph takes a scary turn: Jungkook, the youngest member, falls terribly ill. The Wings tour officially kicks off with a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L38H9yVb3d8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L38H9yVb3d8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L38H9yVb3d8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-28T15:00:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tc9qJHvZx8cyxBJ9rXlSC-8tbxo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PfLCyR6Efvw"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-09T15:00:06Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "Ep8 I NEED YOU | BTS: Burn the Stage",
+        "description": "This is it: the end of the tour. What can possibly go wrong? With tears in their eyes and heavy hearts, BTS perform an encore ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PfLCyR6Efvw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PfLCyR6Efvw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PfLCyR6Efvw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-09T15:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qAz8Tc4hbnlYyhAu87mILogqFUQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P-JTd4RMsDY"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-08T01:38:06Z",
+        "channelId": "UC3vSexs7cCE5k9nh2yy6Kxw",
+        "title": "Maravillosa Música Curativa para Calmar la Mente y Aliviar los Trastornos Nerviosos◾Energía Positiva",
+        "description": "Música para relajarse, meditar, estudiar, leer, masajes, spa o dormir. Esta música es perfecta para combatir la ansiedad, el stress ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P-JTd4RMsDY/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P-JTd4RMsDY/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P-JTd4RMsDY/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Piano Musica",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-02-08T01:38:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VzSguN-v3z-QKvtqwqypB8BxqEs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KGwrTR17S4c"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-10T15:07:55Z",
+        "channelId": "UCzw-C7fNfs018R1FzIKnlaA",
+        "title": "TELL ME THE TRUTH - Run, BIGBANG Scout! (Ep 4)",
+        "description": "The band's managers open up about what it's like working with the members of BIGBANG.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KGwrTR17S4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KGwrTR17S4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KGwrTR17S4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BIGBANG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-10T15:07:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6p0OKgUjmOOppycEh-HphqtJCsY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5zWUKeOUzog"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-22T06:55:46Z",
+        "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+        "title": "【 탬탬버린 】 - 제가 정말 일부러 그런건 아니에요ㅠㅠㅠㅠㅠㅠ",
+        "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 지아민 ▷ 영상편집 - 꼬꼬치 ▷ 탬탬의 생방송 (Live Broadcasting!) 트위치TV ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5zWUKeOUzog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5zWUKeOUzog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5zWUKeOUzog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "탬탬버린",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-22T06:55:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iYYFaRClBx0S6iuIBgXHyDaqw8k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-gMJKzFDAfc"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-16T14:14:21Z",
+        "channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+        "title": "Ep 16 Me Gustas Tu | Top Management",
+        "description": "S.O.U.L.'s music climbs the charts. Along with the unexpected wave of attention comes a tightly packed schedule for all the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-gMJKzFDAfc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-gMJKzFDAfc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-gMJKzFDAfc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1theK (원더케이)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-16T14:14:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VJlEA4-kXjRtav0PabxssZQPE3Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y9zkqhogP60"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-16T14:13:25Z",
+        "channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+        "title": "Ep 14 24 Hours | Top Management",
+        "description": "The title song is finally selected, and the single is released to the public. Everyone at Starlight pushes hard to get S.O.U.L.'s new ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y9zkqhogP60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y9zkqhogP60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y9zkqhogP60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1theK (원더케이)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-16T14:13:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U_PGnRQoWfXsrEjsB-bJKUMIe4o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DYNbBPZIAn8"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-16T06:30:01Z",
+        "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+        "title": "【 탬탬버린 】 - 두 똥쟁이들의 치열한 똥쟁이 경쟁",
+        "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 망고쥬스 (https://www.twitch.tv/suhyun0626) ▷ 영상편집 - 밥밥 ▷ 탬탬의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DYNbBPZIAn8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DYNbBPZIAn8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DYNbBPZIAn8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "탬탬버린",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-16T06:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4xYXbiSJyBjRC9AJPBHkhBXuO3I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8fv4bSMtj2c"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-15T15:45:01Z",
+        "channelId": "UCBVjMGOIkavEAhyqpxJ73Dw",
+        "title": "Charlie Puth - Piano Lesson Interrupted",
+        "description": "Charlie Puth gives an unexpected pop up performance of Attention during a piano lesson at Steinway's flagship Los Angeles ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8fv4bSMtj2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8fv4bSMtj2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8fv4bSMtj2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Maroon 5",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-15T15:45:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sxfg-pv1cDDCqyKuBWNjPipnMkA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mAmm9MgdZdA"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-18T01:23:19Z",
+        "channelId": "UCeq0Nrch5KY3VrZyn_BB32g",
+        "title": "경쟁을 돌렸는데 왜 빠대가 잡히냐...? | 오버워치 쪼낙",
+        "description": "방송 날짜 : 2020.12.10 #쪼낙 #미라지 #빠대 #경쟁 쪼튜브 영상 피드백, 보고싶은 컨텐츠 등은 아래의 편집자 메일로 문의주세요 구독 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mAmm9MgdZdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mAmm9MgdZdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mAmm9MgdZdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쪼낙 JJONAK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-18T01:23:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HihIlvUi7TGh_MNohyh8YYzOueM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "huLsC7a8QVU"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-01T16:00:12Z",
+        "channelId": "UCuwJoiGWRxPYStBp0l0WuZw",
+        "title": "Dumb Things People Say (Part 24) #Shorts",
+        "description": "Dumb Things People Say (Part 24) #Shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/huLsC7a8QVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/huLsC7a8QVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/huLsC7a8QVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Luke Davidson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-01T16:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MAVn7HjZdpPRRL-pG2xsUFH0ppM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SwYi2nOE0nM"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-28T12:23:55Z",
+        "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
+        "title": "‘Profoundly embarrassing’: Douglas Murray claims Kamala Harris was ‘painful’ in Ukraine talks",
+        "description": "US Vice President Kamala Harris' speech at the Munich Security Conference in the midst of the Ukraine crisis was “beneath ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SwYi2nOE0nM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SwYi2nOE0nM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SwYi2nOE0nM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sky News Australia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-28T12:23:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hA2RaFeOdixEvuS5eZiqwPzSW1Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xknd42ZlL3g"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-29T08:05:14Z",
+        "channelId": "UCsAoexnLeGwRym2DmjNRPUw",
+        "title": "엔드게임의 발악, 이걸 바로 재개봉하네",
+        "description": "아바타 형은 나가있어... x지기 시르면... 고맙따..! 1. 토이스토리4 흥행행진 2. 다크피닉스 혹평세례 3. 엔드게임 재개봉 4. 키아누 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xknd42ZlL3g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xknd42ZlL3g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xknd42ZlL3g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DOCLIP :: 두클립",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-29T08:05:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "djzDOaxl04r3k_WZ1erNRvJsH0s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5m3SUcCpbaY"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-14T15:01:08Z",
+        "channelId": "UCh4phgZQTnEJG0hWXho6qWQ",
+        "title": "판필로프 사단의 28 용사",
+        "description": "전 세계가 숨죽이며 지켜본 28명의 용사 역사를 바꾼 불가능한 전쟁! 1941년 11월, 소련. 소련의 수도 모스크바 근방에서 독일군과 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5m3SUcCpbaY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5m3SUcCpbaY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5m3SUcCpbaY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-14T15:01:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cl2qfY_edUvXUJ_JydQ_gqepuEo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "67yN3fjWjqg"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-18T09:00:00Z",
+        "channelId": "UCid83oPnsL-4ZEo8CyQr6Rg",
+        "title": "[연플리 시즌1] - 스페셜 에디션",
+        "description": "연애플레이리스트 시즌 1 스페셜 에디션 - 연플리 시즌1 스페셜 에디션은 지금까지 방송된 연플리 시즌1의 모든 에피소드를 더 좋은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/67yN3fjWjqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/67yN3fjWjqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/67yN3fjWjqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PLAYLIST ORIGINALS 플레이리스트 오리지널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-18T09:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KmOnNGvrZ0_Ce1eJztNPVJ9tvBQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fOAS9iJANcE"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-01T17:42:44Z",
+        "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
+        "title": "Soldados ucranianos tentam impedir o avanço de tropas russas que aumentam a intensidde dos ataques.",
+        "description": "Um enorme comboio militar avança contra a cidade de Kharvik, a segunda maior cidade da Ucrânia e também na direção da ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fOAS9iJANcE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fOAS9iJANcE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fOAS9iJANcE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBC News Brasil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-01T17:42:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wVe_GZbXEc8C-WCtUTsRKTZUHAQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lo7SH3S6zCw"
+      },
+      "snippet": {
+        "publishedAt": "2015-01-06T06:45:47Z",
+        "channelId": "UCd97ukfGaYt4LKtIgKm9Vhw",
+        "title": "FITKIREE | Nepali Full Movie | Saugat Malla | Diya Maskey | Nischal Basnet | Anup Baral",
+        "description": "Jeevan Jung Thapa (Saugat Malla) is a loyal and hard-working police inspector. His life turns upside down when he finds himself ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lo7SH3S6zCw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lo7SH3S6zCw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lo7SH3S6zCw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HiTechEntertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-01-06T06:45:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "go4MwX8zIbFht0YzSOoS2RZiCig",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lj-br9N6wpU"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-31T14:02:57Z",
+        "channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+        "title": "Ep 8 Love Me Right | Top Management",
+        "description": "Sooyong and Teo eventually end up participating in the show, and Eunsung works behind the scenes to help the two look their ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lj-br9N6wpU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lj-br9N6wpU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lj-br9N6wpU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1theK (원더케이)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-31T14:02:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3HInzya8NPsbSZ4kC8Q1_2mmbBc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uhNCs5WTgwM"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-01T14:15:34Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "Ep 4 The Road Less Traveled | Jay Park: Chosen1",
+        "description": "From working at a tire shop in Edmonds to posting song covers on Youtube to engage with his fans – Jay's journey to reinvent ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uhNCs5WTgwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uhNCs5WTgwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uhNCs5WTgwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-01T14:15:34Z"
+      }
+    }
+  ]
+}
