@@ -4,11 +4,12 @@ class Youtube {
     }
 
     async searchList(searchText) {
-        const response = await this.youtube.get('videos', {
+        const response = await this.youtube.get('search', {
             params: {
                 part: 'snippet',
-                chart: 'mostPopular',
                 maxResults: 25,
+                type: 'video',
+                q: searchText,
             }
         });
         return response.data.items;

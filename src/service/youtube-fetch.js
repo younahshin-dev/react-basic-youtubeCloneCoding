@@ -4,8 +4,7 @@ class YoutubeFetch {
         this.key = apikey;
         this.getRequestOptions = {
         method: 'GET',
-        redirect: 'follow',
-        'Access-Control-Allow-Origin': true
+        redirect: 'follow'
         };
     }
 
